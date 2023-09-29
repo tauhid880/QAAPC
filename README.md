@@ -1,5 +1,5 @@
 
--- This Project was created for Bangladesh University Programming Contest Registration Purpose
+- This Project was created for Bangladesh University Programming Contest Registration Purpose
 # Live Link
 https://quazi-azher-ali-programming-contest.netlify.app/
 
