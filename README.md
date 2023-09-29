@@ -1,10 +1,7 @@
 
-# Getting Started with Create React App
-
+-- This Project was created for Bangladesh University Programming Contest Registration Purpose
 # Live Link
 https://quazi-azher-ali-programming-contest.netlify.app/
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
